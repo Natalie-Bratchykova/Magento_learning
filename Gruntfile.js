@@ -1,10 +1,4 @@
-/**
- * Copyright © Magento, Inc. All rights reserved.
- * See COPYING.txt for license details.
- */
 
-// For performance use one level down: 'name/{,*/}*.js'
-// If you want to recursively match all subfolders, use: 'name/**/*.js'
 
 module.exports = function (grunt) {
     'use strict';
